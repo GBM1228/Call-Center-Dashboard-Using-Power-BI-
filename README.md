@@ -7,6 +7,8 @@
 For my second task in the PwC Virtual Internship on Power BI, I designed a comprehensive dashboard centered on Call Center Trends. As a Data Analyst, 
 my responsibilities included Creating a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
 
+#
+
 ## Table Of Contents
 
 [Problem Statement](#ProblemStatement)
@@ -18,6 +20,8 @@ my responsibilities included Creating a dashboard in Power BI for Claire that re
 [Data Visualization](#DataVisualization)
 
 [Data Analysis](#DataAnalysis)
+
+#
 
 
 ## Problem Statement
@@ -34,11 +38,15 @@ Possible KPIs include (to get me started, but not limited to):
 * Average speed of answer
 * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
+  #
+
   ## Data Sourcing
 
 The Dataset used for this analysis was given by [Pwc switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html)
 
 [Dataset](https://github.com/user-attachments/files/17021041/01.Call-Center-Dataset.1.xlsx)
+
+#
 
 ## Data Preparation
 
@@ -72,6 +80,8 @@ The following steps were taking for the data cleaning and transformation  :
 *  Duplicated column
 *  Exstracted day name
 
+#
+
 ## Data Visualization
 
 Microsoft Power BI Desktop was utilized to create a data visualization, uncovering key insights and trends within the dataset:
@@ -91,6 +101,8 @@ Microsoft Power BI Desktop was utilized to create a data visualization, uncoveri
 * Average Talk Duration and Response Speed by Agents
 * Agents Performance
 <img width="670" alt="Call center" src="https://github.com/user-attachments/assets/b13d7c76-1efe-4b22-88e5-6ddd975168f9">
+
+#
 
 ## Data Analysis
 
