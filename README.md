@@ -6,7 +6,6 @@
 
 For my second task in the PwC Virtual Internship on Power BI, I designed a comprehensive dashboard centered on Call Center Trends. As a Data Analyst, 
 my responsibilities included Creating a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
-Get creative! 
 
 ## Table Of Contents
 
