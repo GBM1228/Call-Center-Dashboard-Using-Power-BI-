@@ -2,6 +2,8 @@
 
 <img width="670" alt="Call center" src="https://github.com/user-attachments/assets/524dc92f-80c9-4832-980a-2660441fed35">
 
+## About This Project
+
 For my second task in the PwC Virtual Internship on Power BI, I designed a comprehensive dashboard centered on Call Center Trends. As a Data Analyst, 
 my responsibilities included Creating a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
 Get creative! 
