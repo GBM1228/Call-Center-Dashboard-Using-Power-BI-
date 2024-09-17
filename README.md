@@ -24,7 +24,7 @@ my responsibilities included Creating a dashboard in Power BI for Claire that re
 
 The main objective of this analysis is to:
 
-* Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
+* Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
 
 Possible KPIs include (to get me started, but not limited to):
 
